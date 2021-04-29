@@ -6,3 +6,5 @@
 - 🔭 I’m currently working as a student at EPITECH Paris
 - 🌱 I’m currently learning about Blockchain and AI
 - ⚡ Fun fact: every minute 10,000 Dogecoins are created
+
+peepee poo poo check
