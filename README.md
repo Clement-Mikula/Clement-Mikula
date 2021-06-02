@@ -24,6 +24,6 @@
   <a href="https://sql.sh" target="_blank"> <img src="sql.png?raw=true" alt="SQL" width="100" height="100"/> </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> <img src="js.png?raw=true" alt="JavaScript" width="100" height="100"/> </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="html.png?raw=true" alt="HTML" width="100" height="100"/> </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="css.png?raw=true" alt="CSS" width="100" height="100"/> </a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="css.png?raw=true" alt="CSS" width="80" height="100"/> </a>
 
 </p>
