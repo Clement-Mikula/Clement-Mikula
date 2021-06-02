@@ -20,9 +20,9 @@
   <a href="https://archlinux.org" target="_blank"> <img src="Archlinux.png?raw=true" alt="ArchLinux" width="100" height="100"/> </a>
   <a href="https://www.sfml-dev.org" target="_blank"> <img src="SFML.png?raw=true" alt="CSFML" width="100" height="100"/> </a>
   <a href="https://www.postman.com" target="_blank"> <img src="postman.png?raw=true" alt="Postman" width="100" height="100"/> </a>
-  <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank"> <img src="bash.jpg?raw=true" alt="Bash" width="100" height="100"/> </a>
-  <a href="https://sql.sh" target="_blank"> <img src="sql.jpg?raw=true" alt="SQL" width="100" height="100"/> </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> <img src="js.jpg?raw=true" alt="JavaScript" width="100" height="100"/> </a>
+  <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank"> <img src="bash.png?raw=true" alt="Bash" width="100" height="100"/> </a>
+  <a href="https://sql.sh" target="_blank"> <img src="sql.png?raw=true" alt="SQL" width="100" height="100"/> </a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> <img src="js.png?raw=true" alt="JavaScript" width="100" height="100"/> </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="html.png?raw=true" alt="HTML" width="100" height="100"/> </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="css.png?raw=true" alt="CSS" width="100" height="100"/> </a>
 
