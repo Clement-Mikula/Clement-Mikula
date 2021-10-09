@@ -1,4 +1,4 @@
-# Did I tell you that Artificial Intelligence is going to rule the world ?<p align="center">
+# Did I tell you that Bitcoin is the future and NFT a prank ?<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Clement-Mikula&show_icons=true">
 </p>
 
