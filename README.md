@@ -17,7 +17,7 @@
 <h3 align="left">- Back-End:</h3>
   <a href="https://sql.sh" target="_blank"> <img src="sql2.png?raw=true" alt="SQL" width="100" height="100"/> </a>
   <a href="https://mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" alt="SQL" width="100" height="100"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="  https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="SQL" width="100" height="100"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="SQL" width="100" height="100"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQL" width="100" height="100"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/NodeJS.svg" alt="Node" width="100" height="100"/> </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/JavaScript.svg" alt="JavaScript" width="100" height="100"/> </a>
@@ -37,16 +37,16 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a>
   <a href="https://trello.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="git" width="100" height="100"/> </a>
   <a href="https://trello.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="git" width="100" height="100"/> </a>
-  <a href="https://github.com" target="_blank"> <img src="  https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="git" width="100" height="100"/> </a>
+  <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="git" width="100" height="100"/> </a>
 
 
 
 <h2 align="left">DevOps:</h2>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/>
   </a>
-    <a href="https://www.vagrantup.com/" target="_blank"> <img src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="docker" width="100" height="100"/>
+    <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="docker" width="100" height="100"/>
   </a>
-  <a href="https://www.ansible.com/" target="_blank"> <img src="    https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="docker" width="100" height="100"/>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="docker" width="100" height="100"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="docker" width="100" height="100"/>
   </a>
@@ -65,12 +65,11 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/Cpp.svg" alt="CSFML" width="100" height="100"/
   > </a>
-    <a href="https://www.haskell.org/" target="_blank"> <img src="  https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/haskell/haskell-original.svg" alt="CSFML" width="100" height="100"/
+    <a href="https://www.haskell.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/haskell/haskell-original.svg" alt="CSFML" width="100" height="100"/
   > </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/Java.svg" alt="JavaScript" width="100" height="100"/> </a>
 <h2 align="left">Graphics Development:</h2>
-  <a href="https://unity.com/" target="_blank"> <img src="  https://www.angeluriot.com/portfolio/resources/shapes/skills/Unity.svg
-" alt="JavaScript" width="100" height="100"/> </a>
+  <a href="https://unity.com/" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/Unity.svg" alt="JavaScript" width="100" height="100"/> </a>
   <a href="https://www.sfml-dev.org" target="_blank"> <img src="SFML.png?raw=true" alt="CSFML" width="100" height="100"/> </a>
 <h2 align="left">Data Analysis:</h2>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" alt="CSFML" width="100" height="100"/> </a>
@@ -80,9 +79,9 @@
   <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="CSFML" width="100" height="100"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2018/07/scikit-learn-175.png" alt="CSFML" width="100" height="100"/> </a>
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://plotly.com/" target="_blank"> <img src="  https://i.directioninformatique.com/wp-content/uploads/2020/01/plotlylogo.png" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://plotly.com/" target="_blank"> <img src="https://i.directioninformatique.com/wp-content/uploads/2020/01/plotlylogo.png" alt="CSFML" width="100" height="100"/> </a>
 
 <h2 align="left">Building Software:</h2>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cmake/cmake-original.svg" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/langfr-1024px-Heckert_GNU_white.svg.png" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/langfr-1024px-Heckert_GNU_white.svg.png" alt="CSFML" width="100" height="100"/> </a>
 </p>
