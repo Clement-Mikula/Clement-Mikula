@@ -20,6 +20,26 @@
   > </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/Java.svg" alt="JavaScript" width="100" height="100"/> </a>
   
+<h2 align="left">DevOps:</h2>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/>
+  </a>
+    <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="docker" width="100" height="100"/>
+  </a>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="docker" width="100" height="100"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="docker" width="100" height="100"/>
+  </a>
+
+<h2 align="left">Data Analysis:</h2>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/Tensorflow.svg" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2018/07/scikit-learn-175.png" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="CSFML" width="100" height="100"/> </a>
+  <a href="https://plotly.com/" target="_blank"> <img src="https://i.directioninformatique.com/wp-content/uploads/2020/01/plotlylogo.png" alt="CSFML" width="100" height="100"/> </a>
+  
 <h2 align="left">Web:</h2>
 <h3 align="left">- Front-End:</h3>
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="html.png?raw=true" alt="HTML" width="100" height="100"/> </a>
@@ -41,32 +61,12 @@
 
 <h3 align="left">- QA:</h3>
   <a href="https://www.postman.com" target="_blank"> <img src="postman.png?raw=true" alt="Postman" width="100" height="100"/> </a>
-
-<h2 align="left">Data Analysis:</h2>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/Tensorflow.svg" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2018/07/scikit-learn-175.png" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://plotly.com/" target="_blank"> <img src="https://i.directioninformatique.com/wp-content/uploads/2020/01/plotlylogo.png" alt="CSFML" width="100" height="100"/> </a>
   
 <h2 align="left">Project Management:</h2>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a>
   <a href="https://trello.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="git" width="100" height="100"/> </a>
   <a href="https://trello.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="git" width="100" height="100"/> </a>
   <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="git" width="100" height="100"/> </a>
-
-<h2 align="left">DevOps:</h2>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/>
-  </a>
-    <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="docker" width="100" height="100"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="docker" width="100" height="100"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="docker" width="100" height="100"/>
-  </a>
 
 <h2 align="left">SysAdmin:</h2>
   <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank"> <img src="bash.png?raw=true" alt="Bash" width="90" height="100"/> </a>
