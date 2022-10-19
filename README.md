@@ -65,7 +65,7 @@
 <h2 align="left">Project Management:</h2>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a>
   <a href="https://trello.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="git" width="100" height="100"/> </a>
-  <a href="https://trello.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="git" width="100" height="100"/> </a>
+  <a href="https://notion.so" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="git" width="100" height="100"/> </a>
   <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="git" width="100" height="100"/> </a>
 
 <h2 align="left">SysAdmin:</h2>
