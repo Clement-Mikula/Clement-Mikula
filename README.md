@@ -29,6 +29,9 @@
   </a>
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="docker" width="100" height="100"/>
   </a>
+    <a href="https://www.kubernetes.io/" target="_blank"> <img src="https://kubernetes.io/images/favicon.png" alt="kubernetes" width="100" height="100"/>
+  </a>
+  
 
 <h2 align="left">Data Analysis:</h2>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" alt="CSFML" width="100" height="100"/> </a>
