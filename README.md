@@ -82,7 +82,7 @@
 <h2 align="left">Graphics Development:</h2>
   <a href="https://unity.com/" target="_blank"> <img src="https://www.angeluriot.com/portfolio/resources/shapes/skills/Unity.svg" alt="JavaScript" width="100" height="100"/> </a>
   <a href="https://www.sfml-dev.org" target="_blank"> <img src="SFML.png?raw=true" alt="CSFML" width="100" height="100"/> </a>
-  <a href="https://www.raylib.com/games.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="RayLib" width="100" height="100"/> </a>
+  <a href="https://www.raylib.com/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="RayLib" width="100" height="100"/> </a>
 
 <h2 align="left">Building Software:</h2>
   <a href="https://cmake.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cmake/cmake-original.svg" alt="CSFML" width="100" height="100"/> </a>
