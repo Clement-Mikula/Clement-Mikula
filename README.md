@@ -16,6 +16,7 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="./icons/c.svg" alt="c" width="100" height="100"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="./icons/python.svg" alt="python" width="100" height="100"/> </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="./icons/cplusplus.svg" alt="cplusplus" width="100" height="100"/> </a>
+  <a href="https://soliditylang.org/" target="_blank"> <img src="./icons/solidity.svg" alt="solidity" width="100" height="100"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview" target="_blank"> <img src="./icons/csharp.svg" alt="csharp" width="100" height="100"/> </a>
   <a href="https://www.haskell.org/" target="_blank"> <img src="./icons/haskell.svg" alt="haskell" width="100" height="100"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="./icons/java.svg" alt="java" width="100" height="100"/> </a>
@@ -49,14 +50,14 @@
   <a href="https://plotly.com/" target="_blank"> <img src="./icons/plotly.svg" alt="plotly" width="100" height="100"/> </a>
   
 <h2 align="left">Web</h2>
-<h3 align="left">WebApps</h3>
+<h3 align="left">WebApp</h3>
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="./icons/html5.svg" alt="HTML" width="100" height="100"/> </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="./icons/css3.svg" alt="CSS" width="80" height="100"/> </a>
   <a href="https://fr.reactjs.org/" target="_blank"> <img src="./icons/react.svg" alt="React" width="100" height="100"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="./icons/nodejs.svg" alt="Node" width="100" height="100"/> </a>
   <a href="http://expressjs.com" target="_blank"> <img src="./icons/express.svg" alt="expressjs" width="100" height="100"/> </a>
 
-<h3 align="left"> Databases</h3>
+<h3 align="left"> Database</h3>
 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="./icons/mongodb.svg" alt="mongodb" width="100" height="100"/> </a>
   <a href="https://mysql.com" target="_blank"> <img src="./icons/mysql.svg" alt="mysql" width="100" height="100"/> </a>
@@ -66,7 +67,6 @@
 
   <h3 align="left">Web3</h3>
 
-  <a href="https://soliditylang.org/" target="_blank"> <img src="./icons/solidity.svg" alt="solidity" width="100" height="100"/> </a>
   <a href="https://web3js.readthedocs.io/en/v1.7.5/" target="_blank"> <img src="./icons/web3js.svg" alt="web3js" width="100" height="100"/> </a>
 
 <h3 align="left">Quality Assurance</h3>
