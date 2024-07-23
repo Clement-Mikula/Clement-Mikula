@@ -38,7 +38,7 @@
   </a>
 
 
-<h2 align="left">Data Analysis</h2>
+<h2 align="left">Data / AI</h2>
 
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="./icons/pandas.svg" alt="pandas" width="100" height="100"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="./icons/jupyter.svg" alt="jupyter" width="100" height="100"/> </a>
